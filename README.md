@@ -1,2 +1,2 @@
-# hopkins
+# Hopkins 
 ## Sneha Shivkumar
